@@ -2,7 +2,7 @@ import React from "react";
 import AstronautImage from "../assets/astronaut.png";
 import commet from "../assets/Comet.png";
 import Image from "next/image";
-import style from "./Page1.module.css";
+import style from "./page1.module.css";
 import arrow from "../assets/arrows.png";
 import image1 from "../assets/8972.png";
 import image2 from "../assets/Frame143.png";
