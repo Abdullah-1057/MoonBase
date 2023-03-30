@@ -14,65 +14,65 @@ import coins from "../assets/coins.png";
 import aster from "../assets/aster.png";
 // import Eth from "../assets/Frame173.png";
 
-export const Page1 = () => {
-  return (
-    <>
-      <div className={style.Frame173}>
-        <div className={style.segment1Text}>
-          Liquidity Locking & Team Vesting for Token Founders and Community
-        </div>
+  export const Page1 = () => {
+    return (
+      <>
+        <div className={style.Frame173}>
+          <div className={style.segment1Text}>
+            Liquidity Locking & Team Vesting for Token Founders and Community
+          </div>
 
-        <div className={style.AstronautImage}>
-          <Image
-            src={AstronautImage}
-            alt="Picture of the author"
-            // className={}
-          />{" "}
-        </div>
-        <div className="">
-          <div className={style.InnerGroup}>
-            <div className={style.ArrowImage}>
-              <Image src={arrow} alt="Picture of the author" className="" />{" "}
-            </div>
-            <div className={style.some}>$ 954,346,191.22</div>
-            <div className={style.Trading}>Total Trading Volume</div>
+          <div className={style.AstronautImage}>
+            <Image
+              src={AstronautImage}
+              alt="Picture of the author"
+              // className={}
+            />{" "}
           </div>
-          <div className={style.InnerGroup2}>
-            <div className={style.ArrowImage}>
-              <Image src={arrow} alt="Picture of the author" className="" />{" "}
+          <div className="">
+            <div className={style.InnerGroup}>
+              <div className={style.ArrowImage}>
+                <Image src={arrow} alt="Picture of the author" className="" />{" "}
+              </div>
+              <div className={style.some}>$ 954,346,191.22</div>
+              <div className={style.Trading}>Total Trading Volume</div>
             </div>
-            <div className={style.some}>$ 154,346,191.22</div>
-            <div className={style.Trading}>Total Trading Volume</div>
-          </div>
-          <div className={style.InnerGroup3}>
-            <div className={style.ArrowImage}>
-              <Image src={arrow} alt="Picture of the author" className="" />{" "}
+            <div className={style.InnerGroup2}>
+              <div className={style.ArrowImage}>
+                <Image src={arrow} alt="Picture of the author" className="" />{" "}
+              </div>
+              <div className={style.some}>$ 154,346,191.22</div>
+              <div className={style.Trading}>Total Trading Volume</div>
             </div>
-            <div className={style.some}>$ 52,640</div>
-            <div className={style.Trading}>Total Trading Volume</div>
-          </div>
-          <div className={style.InnerGroup4}>
-            <div className={style.ArrowImage}>
-              <Image src={arrow} alt="Picture of the author" className="" />{" "}
+            <div className={style.InnerGroup3}>
+              <div className={style.ArrowImage}>
+                <Image src={arrow} alt="Picture of the author" className="" />{" "}
+              </div>
+              <div className={style.some}>$ 52,640</div>
+              <div className={style.Trading}>Total Trading Volume</div>
             </div>
-            <div className={style.some}>$ 954,346,191.22</div>
-            <div className={style.Trading}>Total Trading Volume</div>
-          </div>
-          <div className={style.InnerGroup5}>
-            <div className={style.ArrowImage}>
-              <Image src={arrow} alt="Picture of the author" className="" />{" "}
+            <div className={style.InnerGroup4}>
+              <div className={style.ArrowImage}>
+                <Image src={arrow} alt="Picture of the author" className="" />{" "}
+              </div>
+              <div className={style.some}>$ 954,346,191.22</div>
+              <div className={style.Trading}>Total Trading Volume</div>
             </div>
-            <div className={style.some}>$ 954,346,191.22</div>
-            <div className={style.Trading}>Total Trading Volume</div>
-          </div>
-          <div className={style.InnerGroup6}>
-            <div className={style.ArrowImage}>
-              <Image src={arrow} alt="Picture of the author" className="" />{" "}
+            <div className={style.InnerGroup5}>
+              <div className={style.ArrowImage}>
+                <Image src={arrow} alt="Picture of the author" className="" />{" "}
+              </div>
+              <div className={style.some}>$ 954,346,191.22</div>
+              <div className={style.Trading}>Total Trading Volume</div>
             </div>
-            <div className={style.some}>$ 954,346,191.22</div>
-            <div className={style.Trading}>Total Trading Volume</div>
+            <div className={style.InnerGroup6}>
+              <div className={style.ArrowImage}>
+                <Image src={arrow} alt="Picture of the author" className="" />{" "}
+              </div>
+              <div className={style.some}>$ 954,346,191.22</div>
+              <div className={style.Trading}>Total Trading Volume</div>
+            </div>
           </div>
-        </div>
 
         {/* <div className={style.Group233}>
             <div className={style.InnerGroup}>
