@@ -1,0 +1,83 @@
+.MainHeading {
+    position: absolute;
+    width: 733px;
+    height: 112px;
+    left: 114px;
+    top: 309px;
+
+    font-family: 'Maven Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 56px;
+
+    /* Green Main */
+
+    color: #2DFE87;
+}
+
+.SubHeading {
+    position: absolute;
+    width: 869px;
+    height: 36px;
+    left: 114px;
+    top: 443px;
+
+    font-family: 'Maven Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height, or 150% */
+
+
+    color: #FFFFFF;
+}
+
+.RectArea {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 10px 40px;
+    gap: 226px;
+    isolation: isolate;
+
+    position: absolute;
+    width: 414px;
+    height: 51px;
+    left: 114px;
+    top: 501px;
+
+    /* Green Main */
+
+    background: #2DFE87;
+    border-radius: 50px;
+}
+
+.TextArea {
+    width: 334px;
+    height: 31px;
+    font-family: 'Maven Pro';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 31px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    /* Black */
+    color: #000000;
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    z-index: 0;
+}
+.mypic2{
+    position: absolute;
+    width: 535px;
+    height: 559px;
+    left: 1271px;
+    top: 149px;
+}

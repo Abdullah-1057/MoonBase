@@ -1,0 +1,1214 @@
+.MainCss {
+    position: relative;
+    width: 1920px;
+    height: 3911px;
+    background: #FFFFFF;
+}
+
+.segment1Text {
+    position: absolute;
+    width: 1045px;
+    height: 38px;
+    left: 440px;
+    top: 52px;
+    font-family: 'Maven Pro';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 38px;
+    /* identical to box height */
+
+    text-align: center;
+
+    /* White */
+
+    color: #FFFFFF;
+
+}
+
+.AstronautImage {
+    position: absolute;
+    width: 193px;
+    height: 259.87px;
+    left: 180.17px;
+    top: 68.56px;
+
+}
+
+.some {
+    width: 265px;
+    height: 38px;
+    font-family: 'Maven Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+    color: #2DFE87;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.circleDiv1 {
+    position: absolute;
+    width: 499px;
+    height: 499px;
+    left: 1671px;
+    top: 834px;
+
+}
+
+.circleDiv2 {
+    position: absolute;
+    left: 87.03%;
+    right: -13.02%;
+    top: 21.32%;
+    bottom: 65.92%;
+    border: 2px solid #35ED84;
+    filter: blur(2.5px);
+}
+
+.circleDiv3 {
+
+    position: absolute;
+    left: 87.03%;
+    right: -13.02%;
+    top: 21.32%;
+    bottom: 65.92%;
+
+    border: 2px solid #35ED84;
+}
+
+.CodeSegment241 {
+    position: absolute;
+    width: 2260px;
+    height: 777.98px;
+    left: -90px;
+    top: 834px;
+
+}
+
+.CodeSegment243 {
+    position: absolute;
+    width: 2260px;
+    height: 777.98px;
+    left: -90px;
+    top: 834px;
+
+}
+
+
+.CircleVector {
+    position: absolute;
+    left: 87.03%;
+    right: -13.02%;
+    top: 21.32%;
+    bottom: 65.92%;
+
+    border: 2px solid #35ED84;
+    filter: blur(2.5px);
+}
+
+.line {
+    position: absolute;
+    left: -4.69%;
+    right: -6.67%;
+    top: 29.15%;
+    bottom: 58.77%;
+    border: 2px dashed #254E84;
+    transform: rotate(-3deg);
+}
+
+.CommetImage {
+
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 1790.52px;
+    top: 1187.71px;
+    transform: rotate(3.91deg);
+}
+
+.Group235 {
+    position: absolute;
+    width: 1257px;
+    height: 209px;
+    left: 334px;
+    top: 169px;
+}
+
+.Group232 {
+
+    position: absolute;
+    width: 373px;
+    height: 209px;
+    left: 334px;
+    top: 169px;
+
+}
+
+.Group233 {
+
+    position: absolute;
+    width: 373px;
+    height: 209px;
+    left: 776px;
+    top: 169px;
+
+}
+
+.Group234 {
+
+    position: absolute;
+    width: 373px;
+    height: 209px;
+    left: 1218px;
+    top: 169px;
+
+}
+
+.InnerGroup {
+
+    /* Frame 264 */
+
+
+    box-sizing: border-box;
+
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 31px 45px;
+    gap: 10px;
+
+    position: absolute;
+    width: 373px;
+    height: 209px;
+    left: 340px;
+    top: 169px;
+
+    /* Green Main */
+
+    border: 1px solid #2DFE87;
+    border-radius: 35px;
+
+}
+
+.InnerGroup2 {
+    /* Frame 264 */
+    box-sizing: border-box;
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 31px 45px;
+    gap: 10px;
+    position: absolute;
+    width: 373px;
+    height: 209px;
+    left: 782px;
+    top: 169px;
+    /* Green Main */
+
+    border: 1px solid #2DFE87;
+    border-radius: 35px;
+}
+
+.InnerGroup3 {
+    /* Frame 264 */
+
+
+    box-sizing: border-box;
+
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 31px 45px;
+    gap: 10px;
+
+    position: absolute;
+    width: 373px;
+    height: 209px;
+    left: 1224px;
+    top: 169px;
+
+    /* Green Main */
+
+    border: 1px solid #2DFE87;
+    border-radius: 35px;
+}
+
+.InnerGroup4 {
+
+
+    box-sizing: border-box;
+
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 31px 45px;
+    gap: 10px;
+
+    position: absolute;
+    width: 373px;
+    height: 209px;
+    left: 340px;
+    top: 413px;
+
+    /* Green Main */
+
+    border: 1px solid #2DFE87;
+    border-radius: 35px;
+}
+
+
+.InnerGroup5 {
+    /* Frame 264 */
+
+
+    box-sizing: border-box;
+
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 31px 45px;
+    gap: 10px;
+
+    position: absolute;
+    width: 373px;
+    height: 209px;
+    left: 782px;
+    top: 413px;
+
+    /* Green Main */
+
+    border: 1px solid #2DFE87;
+    border-radius: 35px;
+}
+
+.InnerGroup6 {
+    box-sizing: border-box;
+
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 31px 45px;
+    gap: 10px;
+
+    position: absolute;
+    width: 373px;
+    height: 209px;
+    left: 1224px;
+    top: 413px;
+
+    /* Green Main */
+
+    border: 1px solid #2DFE87;
+    border-radius: 35px;
+}
+
+
+
+.Trading {
+    width: 174px;
+    height: 24px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    /* White */
+    color: #FFFFFF;
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.Frame173 {
+    position: absolute;
+    width: 1924px;
+    height: 853px;
+    left: 0px;
+    top: 737px;
+}
+
+.Frame273 {
+    /* Frame 263 */
+
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 6px;
+
+    position: absolute;
+    width: 265px;
+    height: 68px;
+    left: 378px;
+    top: 259px;
+
+}
+
+.ArrowImage {
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 10px 6px;
+    gap: 10px;
+    width: 41.08px;
+    height: 41.81px;
+    background: #2DFE87;
+    border-radius: 10px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.Segment2 {
+    position: absolute;
+    width: 1920px;
+    height: 955px;
+    left: 0px;
+    top: 1612px;
+}
+
+.Frame170 {
+    position: absolute;
+    width: 1920px;
+    height: 955px;
+    left: 0px;
+    top: 1612px;
+
+}
+
+.MainHeading {
+    box-sizing: border-box;
+    position: absolute;
+    width: 1563px;
+    height: 65px;
+    left: 159px;
+    top: 31px;
+    /* Gradient 01 */
+    background: linear-gradient(90deg, #15283B -1.35%, rgba(27, 32, 83, 0) 100%);
+    /* Green Color */
+    border: 1px solid #2DFE87;
+    border-radius: 15px;
+}
+
+.TableHeadName {
+
+    position: absolute;
+    width: 57px;
+    height: 30px;
+    left: 211.18px;
+    top: 46.79px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
+
+
+    /* Green Color */
+
+    color: #2DFE87;
+}
+
+.TableHead2 {
+    position: absolute;
+    width: 129px;
+    height: 30px;
+    left: 489px;
+    top: 46.79px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
+
+
+    /* Green Color */
+
+    color: #2DFE87;
+}
+
+.TableHead3 {
+    position: absolute;
+    width: 175px;
+    height: 30px;
+    left: 672px;
+    top: 46.79px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
+
+
+    /* Green Color */
+
+    color: #2DFE87;
+
+}
+
+.TableHead4 {
+    position: absolute;
+    width: 254px;
+    height: 30px;
+    left: 903px;
+    top: 46.79px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
+
+
+    /* Green Color */
+
+    color: #2DFE87;
+
+}
+
+.TableHead5 {
+
+    position: absolute;
+    width: 144px;
+    height: 30px;
+    left: 1213px;
+    top: 46.79px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
+
+
+    /* Green Color */
+
+    color: #2DFE87;
+
+}
+
+.TableHead6 {
+    /* NEXT UNLOCK */
+
+
+    position: absolute;
+    width: 136px;
+    height: 30px;
+    left: 1439px;
+    top: 46.79px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
+
+
+    /* Green Color */
+
+    color: #2DFE87;
+
+}
+
+.TableHead7 {
+
+    position: absolute;
+    width: 77px;
+    height: 30px;
+    left: 1631px;
+    top: 46.79px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+
+    color: #2DFE87;
+
+}
+
+.Row1 {
+    position: inherit;
+    box-sizing: border-box;
+
+    width: 1563px;
+    height: 89px;
+    background: rgba(70, 109, 253, 0.1);
+
+    border: 1px solid #2DFE87;
+    border-radius: 15px;
+
+    left: 159px;
+    top: 120px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.NameImg {
+    position: absolute;
+    width: 52.23px;
+    height: 52.23px;
+    left: -1.47px;
+    top: 5.0px;
+}
+
+.Frame148 {
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 19px;
+
+    width: 197px;
+    height: 51px;
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.CircularImage {
+    position: absolute;
+    width: 49px;
+    height: 49px;
+    left: 7px;
+    top: 5px;
+    border-radius: 50%;
+    /* background: #D9D9D9; */
+}
+
+.ImageMask {
+    width: 49px;
+    height: 49px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.Text1 {
+    width: 63px;
+    height: 30px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.Text2 {
+    width: 129px;
+    height: 21px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+
+
+    /* light */
+
+    color: #81A9D8;
+    /* Inside auto layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.EthImage {
+
+
+    display: flex;
+    order: 1;
+    flex-grow: 0;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    position: absolute;
+    width: 104.24px;
+    height: 618px;
+    left: 340px;
+    top: 28px;
+}
+
+.Percentage {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 75px;
+
+    position: absolute;
+    width: 104.24px;
+    height: 618px;
+    left: 510px;
+    top: 28px;
+}
+
+.PercentageInner {
+    width: 23px;
+    height: 24px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    color: #FFFFFF;
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.ProjectToken {
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 75px;
+
+    position: absolute;
+    width: 243px;
+    height: 618px;
+    left: 751px;
+    top: 28px;
+
+}
+
+.ValueLocked {
+    /* Frame 171 */
+
+
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 75px;
+
+    position: absolute;
+    width: 133px;
+    height: 618px;
+    left: 1063px;
+    top: 28px;
+}
+
+.Value {
+    width: 128px;
+    height: 24px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #FFFFFF;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.MonthLock {
+    /* Frame 166 */
+
+
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 75px;
+
+    position: absolute;
+    width: 73px;
+    height: 618px;
+    left: 1290px;
+    top: 28px;
+
+}
+
+.MonthValue {
+    width: 73px;
+    height: 24px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #FFFFFF;
+
+    flex: none;
+    order: 0;
+    flex-grow: 0
+}
+
+.ViewLock {
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 75px;
+
+    position: absolute;
+    width: 39px;
+    height: 618px;
+    left: 1481px;
+    top: 28px;
+}
+
+.ViewValue {
+    width: 39px;
+    height: 24px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    text-decoration-line: underline;
+    color: #2DFE87;
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.Row2 {
+    position: inherit;
+    box-sizing: border-box;
+
+    width: 1563px;
+    height: 89px;
+    background: rgba(70, 109, 253, 0.1);
+
+    border: 1px solid #2DFE87;
+    border-radius: 15px;
+
+    left: 159px;
+    top: 220px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.Row3 {
+    position: inherit;
+    box-sizing: border-box;
+
+    width: 1563px;
+    height: 89px;
+    background: rgba(70, 109, 253, 0.1);
+
+    border: 1px solid #2DFE87;
+    border-radius: 15px;
+
+    left: 159px;
+    top: 320px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.Row4 {
+    position: inherit;
+    box-sizing: border-box;
+
+    width: 1563px;
+    height: 89px;
+    background: rgba(70, 109, 253, 0.1);
+
+    border: 1px solid #2DFE87;
+    border-radius: 15px;
+
+    left: 159px;
+    top: 420px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.Row5 {
+    position: inherit;
+    box-sizing: border-box;
+
+    width: 1563px;
+    height: 89px;
+    background: rgba(70, 109, 253, 0.1);
+
+    border: 1px solid #2DFE87;
+    border-radius: 15px;
+
+    left: 159px;
+    top: 520px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.Row6 {
+    position: inherit;
+    box-sizing: border-box;
+
+    width: 1563px;
+    height: 89px;
+    background: rgba(70, 109, 253, 0.1);
+
+    border: 1px solid #2DFE87;
+    border-radius: 15px;
+
+    left: 159px;
+    top: 620px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.Row7 {
+    position: inherit;
+    box-sizing: border-box;
+
+    width: 1563px;
+    height: 89px;
+    background: rgba(70, 109, 253, 0.1);
+
+    border: 1px solid #2DFE87;
+    border-radius: 15px;
+
+    left: 159px;
+    top: 720px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.Pagination {
+    position: absolute;
+    width: 404.03px;
+    height: 54px;
+    left: 758px;
+    top: 864px;
+    /* background-color: rgb(85, 132, 173); */
+}
+
+.Slider1 {
+
+    position: absolute;
+    left: 5.48%;
+    right: 60.02%;
+    top: 92.29%;
+    bottom: 5.96%;
+    height: 30px;
+    width: 20px;
+    color: #EEEEEE;
+}
+
+
+.Slider2 {
+
+    position: absolute;
+    left: 95.52%;
+    right: 38.98%;
+    top: 92.29%;
+    bottom: 5.96%;
+    height: 30px;
+    width: 20px;
+    color: #EEEEEE;
+}
+
+.Number1 {
+    width: 8px;
+    height: 30px;
+    position: absolute;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    color: #2DFE87;
+    left: 20.48%;
+    right: 60.02%;
+    top: 80%;
+    bottom: 5.96%;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.Number2 {
+
+    position: absolute;
+    width: 11.57px;
+    height: 28.93px;
+    left: 35.48%;
+    right: 60.02%;
+    top: 80%;
+    bottom: 5.96%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    color: #EEEEEE;
+}
+
+.Number3 {
+    position: absolute;
+    width: 12.54px;
+    height: 28.93px;
+    left: 50.48%;
+    right: 60.02%;
+    top: 80%;
+    bottom: 5.96%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+
+    color: #EEEEEE;
+
+}
+
+.Number4 {
+    position: absolute;
+    width: 13.5px;
+    height: 28.93px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    left: 65.48%;
+    right: 60.02%;
+    top: 80%;
+    bottom: 5.96%;
+    color: #EEEEEE;
+
+}
+
+.Number5 {
+    position: absolute;
+    width: 13.5px;
+    height: 28.93px;
+    left: 80.48%;
+    right: 60.02%;
+    top: 80%;
+    bottom: 5.96%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+
+    color: #EEEEEE;
+}
+
+.myActive {
+    /* Auto layout */
+
+
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 12px 23px;
+    gap: 10px;
+
+    width: 54px;
+    height: 54px;
+
+    /* Green Color */
+    position: absolute;
+    top: -10px;
+    left: -10px;
+    border: 1px solid #2DFE87;
+    border-radius: 10px;
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.textBottom {
+    position: absolute;
+    width: 897px;
+    height: 56px;
+    left: 512px;
+    top: 2622px;
+
+    font-family: 'Maven Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: center;
+
+    /* Green Main */
+
+    color: #2DFE87;
+}
+
+.lowerHalf {
+    position: absolute;
+    width: 1196px;
+    height: 389px;
+    left: 362px;
+    top: 2800px;
+}
+
+.ImageLowerHalf1 {
+    position: absolute;
+    width: 127px;
+    height: 177px;
+    left: 81px;
+    top: -60px;
+}
+
+.Card1 {
+
+    width: 292px;
+    height: 299px;
+    border-radius: 25px;
+    background: linear-gradient(138.58deg, rgba(65, 73, 154, 0.373) 17.58%, #085165 96.29%);
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.CardDiv {
+    width: 1196px;
+    height: 299px;
+    left: 362px;
+    top: 2828px;
+}
+
+
+.LiquidityLock {
+    position: absolute;
+    width: 149px;
+    height: 26px;
+    left: 73.5px;
+    top: 160px;
+
+    font-family: 'Maven Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 26px;
+    /* identical to box height */
+
+    text-align: center;
+    /* Green Main */
+    color: #2DFE87;
+
+}
+
+.LiquidityLockDetails {
+    position: absolute;
+    width: 254px;
+    height: 84px;
+    left: 20px;
+    top: 210px;
+
+    font-family: 'Maven Pro';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+
+.ImageLowerHalf2 {
+    position: absolute;
+    width: 242px;
+    height: 208px;
+    left: 495px;
+    top: -90px;
+}
+
+
+.CardDiv2 {
+    position: absolute;
+    width: 1196px;
+    height: 299px;
+    left: 462px;
+    top: 0px;
+    z-index: -1;
+}
+
+
+.ImageLowerHalf3 {
+    position: absolute;
+    width: 230px;
+    height: 197px;
+    left: 880px;
+    top: -90px;
+}
+
+
+.CardDiv3 {
+    position: absolute;
+    width: 1196px;
+    height: 299px;
+    left: 852px;
+    top: 0px;
+    z-index: -1;
+}

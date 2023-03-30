@@ -1,0 +1,138 @@
+.myNavbar {
+    position: absolute;
+    width: 1920px;
+    height: 149px;
+    left: 2px;
+    top: 0px;
+    background-color: black;
+}
+
+.NavImage {
+    position: absolute;
+    width: 349px;
+    height: 41px;
+    left: 112px;
+    top: 54px;
+
+}
+
+.allTokens {
+    /* All Tokens */
+    width: 121px;
+    height: 31px;
+    font-family: 'Maven Pro';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 31px;
+    /* identical to box height */
+    /* Green Main */
+    color: #2DFE87;
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.lockUp {
+    /* Lockups */
+    width: 99px;
+    height: 31px;
+
+    font-family: 'Maven Pro';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 31px;
+    /* identical to box height */
+    /* White */
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+
+.vesting {
+    width: 90px;
+    height: 31px;
+
+    font-family: 'Maven Pro';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 31px;
+    /* identical to box height */
+
+
+    /* White */
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+}
+
+.claim {
+    /* Claim */
+
+
+    width: 68px;
+    height: 31px;
+
+    font-family: 'Maven Pro';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 31px;
+    /* identical to box height */
+
+
+    /* White */
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 3;
+
+}
+
+.ConWallet {
+    width: 183px;
+    height: 31px;
+
+    font-family: 'Maven Pro';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 31px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    /* White */
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    z-index: 0;
+}
